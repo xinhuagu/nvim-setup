@@ -57,6 +57,9 @@ Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
 
+" COC
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
 " nvim-tree file explorer 
 " Plug 'kyazdani42/nvim-web-devicons' 
 " Plug 'kyazdani42/nvim-tree.lua'
